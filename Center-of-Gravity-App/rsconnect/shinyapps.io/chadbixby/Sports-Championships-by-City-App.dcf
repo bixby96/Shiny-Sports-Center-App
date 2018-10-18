@@ -1,0 +1,12 @@
+name: Sports-Championships-by-City-App
+title: Sports-Championships-by-City-App
+username:
+account: chadbixby
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 523101
+bundleId: 1650550
+url: https://chadbixby.shinyapps.io/Sports-Championships-by-City-App/
+when: 1539906083.86698
+asMultiple: FALSE
+asStatic: FALSE
