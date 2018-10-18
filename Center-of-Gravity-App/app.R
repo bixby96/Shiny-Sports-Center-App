@@ -9,7 +9,6 @@ library(shinythemes)
 options(DT.options = list(pageLength = 5, order = list(2, "desc"),
                           lengthMenu = list(c(5, 10, -1), c('5', '15', 'All'))))
 
-# Define UI for application that draws a histogram
 ui <- fluidPage(theme = shinytheme("yeti"),
   titlePanel("League Titles by City"),
   
