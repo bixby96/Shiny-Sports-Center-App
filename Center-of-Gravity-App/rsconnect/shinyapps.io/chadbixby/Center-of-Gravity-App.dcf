@@ -5,8 +5,8 @@ account: chadbixby
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 523370
-bundleId: 1650606
+bundleId: 1650619
 url: https://chadbixby.shinyapps.io/Center-of-Gravity-App/
-when: 1539909932.21961
+when: 1539910637.86543
 asMultiple: FALSE
 asStatic: FALSE
